@@ -8,6 +8,7 @@
     jupyter notebooks
     PCA
     KMeans
+    Unsupervised machine learning
 ## Summary
 ![](Resources/images/deliverable1.png)
 ![](Resources/images/deliverable1_1.png)
